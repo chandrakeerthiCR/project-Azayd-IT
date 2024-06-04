@@ -2,12 +2,16 @@
 
 ## Overview
 
-The project “IT Company Website” is a responsive website made using HTML, CSS, Bootstrap and JavaScript. As it is responsive, it works well on all devices. The website includes modules like About, Services, Portfolio, Team, Career, Contact and FAQ. Whenever anyone submits the contact form or career form, an email is sent on company’s email id so that they get notified about it and can communicate with that person soon. The website contains all the modules that meet the project requirement and is doing all the work accurately.
+Welcome to Azayd IT, your trusted partner in innovation and excellence.
+         We specialize in delivering cutting-edge solutions designed to propel your business forward in today's fast-paced digital landscape. 
+         With a commitment to quality and a focus on customer satisfaction, our expert team is dedicated to transforming your vision into reality. 
+         Whether it's through state-of-the-art web development, strategic digital marketing, or insightful business consulting, we are here to help you achieve your goals.
+        Discover the difference that experience, passion, and innovation can make for your business with our Company"
 
 ## Website Link
 
 Go check this website!!
-https://priyansh42.github.io/IT-Company-Website/
+https://.github.io/IT-Company-Website/
 
 ##
 
