@@ -11,7 +11,7 @@ Welcome to Azayd IT, your trusted partner in innovation and excellence.
 ## Website Link
 
 Go check this website!!
-https://.github.io/IT-Company-Website/
+https://github.com/chandrakeerthiCR/project-Azayd-IT/tree/main
 
 ##
 
